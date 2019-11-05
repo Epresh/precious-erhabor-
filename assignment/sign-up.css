@@ -1,0 +1,107 @@
+body{
+    background-color: #EEE9E9
+    }
+   
+main{
+    position: absolute;
+    width: 305px;
+    height: 449px;
+    margin-left: 500px;
+    margin-top: 40px;
+    background: #FCFBFB;
+    box-sizing: border-box;
+    }
+form{
+    position: absolute;
+    width: 266px;
+    height: 386px;
+    margin-top: 95px;
+    margin-left: 520px;
+    background: rgba(254, 254, 254, 0.84);
+    border: 1px solid #EBDEDE;
+    box-sizing: border-box;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    }
+h1  {
+    text-align: center;  
+    font-family: Roboto;
+    font-style: bold;
+    font-size: 45px;
+    text-align: center;
+    color: rgb(66, 65, 65);
+    padding-top: 10px;
+    padding-bottom: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    }
+h2  {
+    text-align: center;
+    padding-top: 0px;
+    margin-top: 0px;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 9px;
+    color: #00000091;
+    margin-top:0px;
+    margin-bottom: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    }
+h3  {
+    text-align: center;   
+    font-family: Roboto;
+    font-style: normal;
+    font-size: 10px;
+    text-align: center;
+    color: #000000bb;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    }
+.a  {
+    text-align: center;
+    margin-left: 23px;
+    margin-bottom:20px;
+    margin-top: 100px;
+    border-radius: 3px;
+    padding: 0px ;
+    width: 211px;
+    height: 27px;
+    }
+.b  {
+    text-align: center;
+    margin-left: 23px;
+    margin-bottom: 20px;
+    margin-top: 0px;
+    border-radius: 3px;
+    padding: 0px ;
+    width: 211px;
+    height: 27px;
+    }
+.c  {
+    text-align: center;
+    }
+.d  {
+    text-align: center;
+    text-decoration: underline;
+    color: black;
+    font-size: 10px;
+    margin-bottom:0px;
+    margin-top: 0px;
+    padding-top: 10px;
+    padding-bottom: 0;
+    }    
+.e  {
+    text-align: center;
+    color: black;
+    font-size: 17px;
+    padding-top: 10px;
+   
+    }
+.f  {
+    font-size: 15px;
+    color: rgb(255, 0, 0);
+    text-decoration: underline;
+    margin-left: 10px;
+    }  
